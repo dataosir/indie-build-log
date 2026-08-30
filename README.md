@@ -33,7 +33,8 @@ This repository documents the transition from traditional employment to an indie
 | [`roles/CEO-chief-executive-officer.md`](roles/CEO-chief-executive-officer.md) | **CEO Workspace**: Strategy, Runway, Time Allocation & Decision Log |
 | [`docs/01-market-research/business-framework.md`](docs/01-market-research/business-framework.md) | Funnel: Traffic → Validation → Pricing → Monetization → Automation + micro-niche scorecard |
 | [`docs/01-market-research/idea-scorecard-2026-08-28.md`](docs/01-market-research/idea-scorecard-2026-08-28.md) | Seed ideas scored; Top 1 niche selected |
-| [`docs/01-market-research/01-niche-discovery-methodology.md`](docs/01-market-research/01-niche-discovery-methodology.md) | **Niche Discovery Playbook**: Where and how to find high-value niches |
+| [`docs/01-market-research/01-niche-discovery-methodology.md`](docs/01-market-research/01-niche-discovery-methodology.md) | **Niche Discovery**: Where and how to find high-value niches |
+| [`docs/01-market-research/icp-discovery-playbook.md`](docs/01-market-research/icp-discovery-playbook.md) | **ICP Discovery Playbook**: 7-day buyer-first checklist (interviews, gates) |
 | [`docs/02-product-mvp/monetization-strategy.md`](docs/02-product-mvp/monetization-strategy.md) | Stripe / buyout vs sub / API metering + pre-sale before code |
 | [`docs/02-product-mvp/offer-one-pager-template.md`](docs/02-product-mvp/offer-one-pager-template.md) | One-page offer template (who / pain / price) |
 | [`docs/03-growth-and-automation/distribution-channels.md`](docs/03-growth-and-automation/distribution-channels.md) | $0-ad cold start: BIP, Product Hunt, Reddit |

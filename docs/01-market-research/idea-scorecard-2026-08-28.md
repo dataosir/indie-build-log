@@ -2,6 +2,7 @@
 
 **Source ideas:** [`initial-brainstorming.md`](initial-brainstorming.md)  
 **Method:** [`business-framework.md`](business-framework.md) §4 Micro-Niche Scorecard  
+**新点子入场：** 先跑 [`icp-discovery-playbook.md`](icp-discovery-playbook.md) 7 天 Gate，再进本表打分  
 **Owner:** CEO + CMO（Week 1 KPI）
 
 ---

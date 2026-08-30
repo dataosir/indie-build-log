@@ -5,6 +5,8 @@
 
 本指南旨在为一人公司的市场调研（Market Research）提供一套标准化、可复制的作业程序（Playbook）。即便你现在还没有明确的产品想法，也可以通过这套方法论在 1-2 周内筛选出 3 个高胜率的 Niche。
 
+**可勾选执行单（每周 7 天循环）：** [`icp-discovery-playbook.md`](icp-discovery-playbook.md) — 先找买家、钱语言访谈、Gate 判定；本文件侧重「去哪找」与筛选逻辑。
+
 ---
 
 ## 1. 寻找利基的四大黄金水源 (Where to Look)
