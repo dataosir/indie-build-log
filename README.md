@@ -36,6 +36,9 @@ This repository documents the transition from traditional employment to an indie
 | [`docs/01-market-research/01-niche-discovery-methodology.md`](docs/01-market-research/01-niche-discovery-methodology.md) | **Niche Discovery**: Where and how to find high-value niches |
 | [`docs/01-market-research/icp-discovery-playbook.md`](docs/01-market-research/icp-discovery-playbook.md) | **ICP Discovery Playbook**: 7-day buyer-first checklist (interviews, gates) |
 | [`docs/02-product-mvp/monetization-strategy.md`](docs/02-product-mvp/monetization-strategy.md) | Stripe / buyout vs sub / API metering + pre-sale before code |
+| [`docs/02-product-mvp/services-offer-graalvm.md`](docs/02-product-mvp/services-offer-graalvm.md) | **Cash track**: GraalVM consulting SKUs ($2.5k+), outreach & delivery SOP |
+| [`docs/02-product-mvp/services-offer-trading-discipline.md`](docs/02-product-mvp/services-offer-trading-discipline.md) | **Interest track**: Trading discipline cohort (¥3.9k, non-advisory) |
+| [`docs/03-growth-and-automation/tea-promotion-one-pager.md`](docs/03-growth-and-automation/tea-promotion-one-pager.md) | **TEA** external one-pager (access engine, not stock picks) |
 | [`docs/02-product-mvp/offer-one-pager-template.md`](docs/02-product-mvp/offer-one-pager-template.md) | One-page offer template (who / pain / price) |
 | [`docs/03-growth-and-automation/distribution-channels.md`](docs/03-growth-and-automation/distribution-channels.md) | $0-ad cold start: BIP, Product Hunt, Reddit |
 | [`docs/03-growth-and-automation/ai-operating-stack.md`](docs/03-growth-and-automation/ai-operating-stack.md) | AI tool stack, COGS limits & human/AI split |

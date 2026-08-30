@@ -65,6 +65,7 @@
 2. 复制 [`../02-product-mvp/offer-one-pager-template.md`](../02-product-mvp/offer-one-pager-template.md) → `offer-graalvm-native-v1.md`  
 3. 排 5 次访谈（Serverless Java / Spring Native 用户）  
 4. CTO：48h spike — 见 [`../02-product-mvp/tech-spike-template.md`](../02-product-mvp/tech-spike-template.md)  
+5. **现金轨（并行）：** [`../02-product-mvp/services-offer-graalvm.md`](../02-product-mvp/services-offer-graalvm.md) — Runway 紧或冲 100 万现金时优先 SKU A ($2.5k)
 
 ---
 
@@ -89,6 +90,11 @@
 | Idea 6-B3 | 关系维护提醒 + 草稿消息 — 国内 C 端可试，与 Global 战略冲突 |
 | Idea 6-E1 | 独立开发者工作/生活复盘 KB — 与 Idea 3/4 可合并，founder-fit 最高 |
 | Idea 6-C1 | 语音 → 生活档案 — 与 Idea 5 事后批处理 **同一管道**，勿双线 |
+| **Idea 7 — 炒股兴趣周边** | 🟡 沙盒 — 主业不适合；TEA + 纪律陪跑为兴趣轨；见 [`initial-brainstorming.md`](initial-brainstorming.md) Idea 7 |
+| Idea 7-A5 | 纪律陪跑 1v1 — 合法版执行单 → [`../02-product-mvp/services-offer-trading-discipline.md`](../02-product-mvp/services-offer-trading-discipline.md) |
+| Idea 7-A6 / C3 | TEA 开源 + 工程内容 — one-pager → [`../03-growth-and-automation/tea-promotion-one-pager.md`](../03-growth-and-automation/tea-promotion-one-pager.md) |
+| Idea 7-C1 | 荐股 / 带单 / 卖信号 — **预 Kill** |
+| Idea 7-B3 | Global Trading Journal — GraalVM 有收入后再 scorecard |
 
 ---
 

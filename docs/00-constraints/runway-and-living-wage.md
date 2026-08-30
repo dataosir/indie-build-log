@@ -82,7 +82,7 @@
 
 **Kill / pivot 与 Runway 联动：**
 
-- Runway **< 4 个月** 且 Day 60 仍 $0 → 并行 **services wedge**（Java/GraalVM 咨询包）换时间，不无限延长同一 zombie product  
+- Runway **< 4 个月** 且 Day 60 仍 $0 → 并行 **services wedge**（Java/GraalVM 咨询包）换时间，不无限延长同一 zombie product — 执行单见 [`../02-product-mvp/services-offer-graalvm.md`](../02-product-mvp/services-offer-graalvm.md)  
 - Runway **≥ 9 个月** → 可更耐心做 SEO / 内容复利，但仍须 weekly commercial KPI
 
 ---

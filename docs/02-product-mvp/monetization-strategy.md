@@ -255,6 +255,9 @@ Store copies under `docs/04-indie-log/` weekly reviews.
 | Doc | Role |
 |-----|------|
 | [`../01-market-research/business-framework.md`](../01-market-research/business-framework.md) | Funnel gates before monetization |
+| [`services-offer-graalvm.md`](services-offer-graalvm.md) | **Cash track**: fixed-price GraalVM consulting (parallel to SaaS) |
+| [`services-offer-trading-discipline.md`](services-offer-trading-discipline.md) | **Interest track**: trading discipline cohort (non-advisory, ≤4h/wk) |
+| [`../03-growth-and-automation/tea-promotion-one-pager.md`](../03-growth-and-automation/tea-promotion-one-pager.md) | TEA open-source promotion (engineering angle) |
 | [`../03-growth-and-automation/distribution-channels.md`](../03-growth-and-automation/distribution-channels.md) | Where buyers come from at $0 ads |
 | [`../04-indie-log/roadmap-and-milestones.md`](../04-indie-log/roadmap-and-milestones.md) | Week-by-week revenue KPIs |
 
