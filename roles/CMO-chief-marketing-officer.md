@@ -17,6 +17,7 @@
 
 ### 2.1 市场调研五步法 (Niche Teardown Workflow)
 当你锁定一个潜在 Niche 时，切忌盲目相信直觉，严格执行以下步骤：
+0. **新点子入场**：先走 [`idea-intake-sop.md`](../docs/01-market-research/idea-intake-sop.md) 四角色评审，写入沙盒后再深入调研。
 1. **竞品扫描**：通过 Google/GitHub/Product Hunt/AlternativeTo 检索至少 3-5 个竞品。
 2. **定价拆解**：记录竞品的定价区间（他们是收 $9/mo 还是 $199/mo？有没有 Lifetime 方案？）。
 3. **痛点挖掘**：去 Reddit、G2、Twitter 检索竞品的差评（用户在抱怨什么？导入慢？UI 难用？AI 幻觉多？不支持某集成？）。这往往就是你的 **Wedge（切入点）**。

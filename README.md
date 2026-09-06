@@ -17,6 +17,7 @@ This repository documents the transition from traditional employment to an indie
 
 | Path | Purpose |
 |------|---------|
+| [`docs/INDEX.md`](docs/INDEX.md) | **Master index** — all docs in one place; update when adding/moving files |
 | [`docs/00-constraints/`](docs/00-constraints/) | Runway, living-wage math & global payments checklist |
 | [`roles/`](roles/) | **Role Workspaces (CEO, CMO, CTO, COO - Founder's Hat)** |
 | [`docs/01-market-research/`](docs/01-market-research/) | Global market research, niche discovery & templates |
@@ -28,6 +29,8 @@ This repository documents the transition from traditional employment to an indie
 
 | Doc / Folder | Focus |
 |-----|--------|
+| [`docs/INDEX.md`](docs/INDEX.md) | **Document catalog** — find any file; sync on every doc change |
+| [`docs/01-market-research/idea-intake-sop.md`](docs/01-market-research/idea-intake-sop.md) | **Idea intake** — 4-role review when you pitch a new idea |
 | [`daily_sop.md`](daily_sop.md) | **Daily Standard Operating Procedure** (Founder's daily routine) |
 | [`docs/00-constraints/runway-and-living-wage.md`](docs/00-constraints/runway-and-living-wage.md) | **Runway & living MRR** + global payments checklist |
 | [`roles/CEO-chief-executive-officer.md`](roles/CEO-chief-executive-officer.md) | **CEO Workspace**: Strategy, Runway, Time Allocation & Decision Log |

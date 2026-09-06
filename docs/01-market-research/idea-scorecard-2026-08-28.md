@@ -2,7 +2,7 @@
 
 **Source ideas:** [`initial-brainstorming.md`](initial-brainstorming.md)  
 **Method:** [`business-framework.md`](business-framework.md) §4 Micro-Niche Scorecard  
-**新点子入场：** 先跑 [`icp-discovery-playbook.md`](icp-discovery-playbook.md) 7 天 Gate，再进本表打分  
+**新点子入场：** 先走 [`idea-intake-sop.md`](idea-intake-sop.md) 四角色评审 → 沙盒落盘 → 再跑 [`icp-discovery-playbook.md`](icp-discovery-playbook.md) 7 天 Gate → 进本表打分  
 **Owner:** CEO + CMO（Week 1 KPI）
 
 ---
@@ -78,7 +78,7 @@
 | **Idea 4 — AI 私人秘书（原始）** | 🟡 沙盒 — 通用 C 端 + 小程序 **预 Kill**；见 [`initial-brainstorming.md`](initial-brainstorming.md) Idea 4 |
 | Idea 4-D1 | 独立开发者支持工单秘书 — 与 GraalVM 无协同，但 founder-fit 高，可单独 scorecard |
 | Idea 4-D4 | Stripe/账单异常秘书 — 与 Idea 3 监控 **可合并** wedge，优先评估合并而非新开产品线 |
-| Idea 4-B3 | 社群群摘要秘书 — 仅当有现成私域流量时再打分 |
+| Idea 4-B3 | 社群群摘要秘书 — 已展开为 **Idea 8**（国内 IM 载体）；仅当有现成私域流量时再打分 |
 | **Idea 5 — 录音 / 实时声音总结（原始）** | 🟡 沙盒 — 通用会议记录 **预 Kill**（Otter/飞书妙记红海）；见 [`initial-brainstorming.md`](initial-brainstorming.md) Idea 5 |
 | Idea 5-C1 | 纯事后批处理（上传 → 总结）— MVP 成本最低，优先于实时 |
 | Idea 5-D1 | 技术评审 / RFC 讨论 → ADR 草稿 — founder-fit 中，可单独 scorecard；Concierge 清单 → [`../02-product-mvp/adr-concierge-validation.md`](../02-product-mvp/adr-concierge-validation.md) |
@@ -95,6 +95,10 @@
 | Idea 7-A6 / C3 | TEA 开源 + 工程内容 — one-pager → [`../03-growth-and-automation/tea-promotion-one-pager.md`](../03-growth-and-automation/tea-promotion-one-pager.md) |
 | Idea 7-C1 | 荐股 / 带单 / 卖信号 — **预 Kill** |
 | Idea 7-B3 | Global Trading Journal — GraalVM 有收入后再 scorecard |
+| **Idea 8 — 微信/QQ 群聊整理 · 社群群日报** | 🟡 沙盒 — 通用 C 端 **预 Kill**；主 wedge = 知识付费群日报（Idea 4-B3 展开）；见 [`initial-brainstorming.md`](initial-brainstorming.md) Idea 8 |
+| Idea 8-C1/C2 | 社群群日报 Concierge 验证 — 7 天手工跑 5 群主，¥49+ 口头意向后再做企微/转发 Bot |
+| Idea 8-D1/D2 | Slack/Telegram digest — Global 同能力变体，与 GraalVM 客户群更近 |
+| Idea 8-A2/B6 | 私聊 CRM / 个人号 Hook — **预 Kill**（用户未选 wedge + 合规风险） |
 
 ---
 

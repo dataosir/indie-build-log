@@ -8,6 +8,8 @@
 
 ## 今日基础信息
 - **日期**：2026-08-28 (或手动修改)
+- **文档目录**：[`docs/INDEX.md`](docs/INDEX.md)（新增/改动任何 md 后同步更新）
+- **新点子入口**：[`docs/01-market-research/idea-intake-sop.md`](docs/01-market-research/idea-intake-sop.md)
 - **当前核心 Niche**：________________________
 - **当前所处商业漏斗阶段 (Funnel Stage)**：
   - [ ] **Stage A (Traffic/流量)**：正在验证曝光与引流通道

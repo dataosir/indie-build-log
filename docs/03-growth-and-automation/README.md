@@ -7,6 +7,9 @@
 | [`distribution-channels.md`](distribution-channels.md) | $0 广告冷启动：BIP、Reddit、Product Hunt |
 | [`ai-operating-stack.md`](ai-operating-stack.md) | 一人公司 AI 工具栈、COGS 红线、人机分工 |
 | [`deployment-and-ops-minimum.md`](deployment-and-ops-minimum.md) | Hetzner + Stripe webhook 最小部署与运维 |
+| [`tea-promotion-one-pager.md`](tea-promotion-one-pager.md) | TEA 对外一页纸（准入引擎，非荐股） |
+
+全库目录见 [`../INDEX.md`](../INDEX.md)。
 
 **Audience:** CMO（分销）+ CTO/COO（AI ops & infra）  
 **Last updated:** 2026-08-28
