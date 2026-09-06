@@ -7,10 +7,27 @@
 
 ---
 
+## 当前执行（Live）
+
+> 详细字段见 [`04-indie-log/CURRENT-STATUS.md`](04-indie-log/CURRENT-STATUS.md) — **每周日 scorecard 后同步更新本节摘要。**
+
+| 字段 | 值 |
+|------|-----|
+| Day / Week | Day 10 / W2 |
+| Funnel | **B — Validation** |
+| Primary bet | GraalVM Native Image 助手 |
+| 本周 ONE bet | offer v1 + 5 外联 + 2 访谈 |
+| 90d 访谈 | 0 / 25 |
+| Revenue | $0 |
+
+---
+
 ## 快速入口
 
 | 我想… | 去看 |
 |--------|------|
+| **今天公司跑到哪了** | [`04-indie-log/CURRENT-STATUS.md`](04-indie-log/CURRENT-STATUS.md) |
+| 记外联 / 访谈 | [`04-indie-log/outreach-log.md`](04-indie-log/outreach-log.md) |
 | 抛一个新点子、走四角色评审 | [`01-market-research/idea-intake-sop.md`](01-market-research/idea-intake-sop.md) |
 | 查所有已记录的点子 | [`01-market-research/initial-brainstorming.md`](01-market-research/initial-brainstorming.md) |
 | 看已打分、当前 Primary bet | [`01-market-research/idea-scorecard-2026-08-28.md`](01-market-research/idea-scorecard-2026-08-28.md) |
@@ -53,7 +70,7 @@
 
 | 路径 | 类型 | 说明 | 状态 | 更新 |
 |------|------|------|------|------|
-| [`idea-intake-sop.md`](01-market-research/idea-intake-sop.md) | **SOP** | **新点子四角色评审 + SSOT + Git 落盘** | 活跃 | 2026-09-06 |
+| [`idea-intake-sop.md`](01-market-research/idea-intake-sop.md) | **SOP** | **新点子四角色评审 + Validation 冻结期 + SSOT + Git** | 活跃 | 2026-09-06 |
 | [`initial-brainstorming.md`](01-market-research/initial-brainstorming.md) | 沙盒 | Idea 1–9 原始脑暴 + 拓展树 | 活跃 | 2026-09-06 |
 | [`idea-scorecard-2026-08-28.md`](01-market-research/idea-scorecard-2026-08-28.md) | 评分 | 种子点子硬过滤 + 软打分；Top 1 = GraalVM | 活跃 | 2026-08-28 |
 | [`business-framework.md`](01-market-research/business-framework.md) | 框架 | 商业漏斗、Micro-Niche 打分表、Kill 规则 | 活跃 | 2026-08-28 |
@@ -89,6 +106,7 @@
 | [`stripe-webhook-alert-playbook.md`](02-product-mvp/stripe-webhook-alert-playbook.md) | Playbook | Stripe webhook 失败排查 | 2026-08-28 |
 | [`landing-page-checklist.md`](02-product-mvp/landing-page-checklist.md) | 清单 | Landing 页发布前检查 | 2026-08-28 |
 | [`offer-one-pager-template.md`](02-product-mvp/offer-one-pager-template.md) | 模板 | 一页 Offer（谁 / 痛 / 价） | 2026-08-28 |
+| [`offer-graalvm-native-v1.md`](02-product-mvp/offer-graalvm-native-v1.md) | Offer | GraalVM SaaS Offer v1 草稿 | 2026-09-06 |
 | [`tech-spike-template.md`](02-product-mvp/tech-spike-template.md) | 模板 | 48h 技术实验记录 | 2026-08-28 |
 
 ---
@@ -109,10 +127,13 @@
 
 | 路径 | 类型 | 说明 | 更新 |
 |------|------|------|------|
+| [`CURRENT-STATUS.md`](04-indie-log/CURRENT-STATUS.md) | **仪表盘** | **执行状态 SSOT — 今日看这一页** | 2026-09-06 |
+| [`outreach-log.md`](04-indie-log/outreach-log.md) | CRM | 外联 / 访谈记录 | 2026-09-06 |
 | [`roadmap-and-milestones.md`](04-indie-log/roadmap-and-milestones.md) | 路线图 | 90 天里程碑 → 首笔 USD | 2026-08-28 |
 | [`2026-08-28-kickoff.md`](04-indie-log/2026-08-28-kickoff.md) | 日志 | 项目启动宣言 | 2026-08-28 |
 | [`daily-logs/README.md`](04-indie-log/daily-logs/README.md) | 说明 | 每日日志用法（清单见 INDEX） | 2026-09-06 |
 | [`daily-logs/2026-08-28-week1-scorecard.md`](04-indie-log/daily-logs/2026-08-28-week1-scorecard.md) | 周报 | Week 1 scorecard | 2026-08-28 |
+| [`daily-logs/2026-09-06-week2-scorecard.md`](04-indie-log/daily-logs/2026-09-06-week2-scorecard.md) | 周报 | Week 2 scorecard | 2026-09-06 |
 
 ---
 
@@ -124,7 +145,7 @@
 | **框架 / 方法** | `business-framework.md`, `01-niche-discovery-methodology.md` |
 | **模板（复制即用）** | `niche-research-template.md`, `offer-one-pager-template.md`, `tech-spike-template.md` |
 | **点子管线** | `initial-brainstorming.md` → `idea-scorecard-*.md` → niche teardown |
-| **当前执行** | `idea-scorecard-2026-08-28.md`, `services-offer-graalvm.md`, `niche-graalvm-native-image-teardown.md` |
+| **当前执行** | `CURRENT-STATUS.md`, `outreach-log.md`, `offer-graalvm-native-v1.md`, `idea-scorecard-2026-08-28.md` |
 | **角色** | `roles/CEO|CMO|CTO|COO-*.md` |
 
 ---

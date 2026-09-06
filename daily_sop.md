@@ -7,7 +7,9 @@
 ---
 
 ## 今日基础信息
-- **日期**：2026-08-28 (或手动修改)
+- **日期**：2026-09-06（或手动修改）
+- **执行仪表盘（SSOT）**：[`docs/04-indie-log/CURRENT-STATUS.md`](docs/04-indie-log/CURRENT-STATUS.md) — 今日看这一页
+- **外联 / 访谈 CRM**：[`docs/04-indie-log/outreach-log.md`](docs/04-indie-log/outreach-log.md)
 - **文档目录（SSOT）**：[`docs/INDEX.md`](docs/INDEX.md) — 全库唯一清单；新增/改动任何 md 后同步更新；不在别处重复维护目录表
 - **Git**：Agent 每轮改动自动 **commit**；**push 由你决定**（说 `push` 再推）
 - **新点子入口**：[`docs/01-market-research/idea-intake-sop.md`](docs/01-market-research/idea-intake-sop.md)
@@ -24,7 +26,7 @@
 ## 🚀 晨间启动：换上【CEO 帽】（30 分钟 / 09:00 - 09:30）
 > **目标**：不偏航，确保今天的时间花在刀刃上。
 
-- [ ] **查看仪表盘**：快速浏览 `roadmap-and-milestones.md` 本周的 KPI 与目标。
+- [ ] **查看仪表盘**：打开 [`docs/04-indie-log/CURRENT-STATUS.md`](docs/04-indie-log/CURRENT-STATUS.md)，确认本周 ONE commercial bet 与 KPI。
 - [ ] **查看关键信息**：限时 10 分钟，处理邮件、Stripe/Lemon Squeezy 账单、社区消息，过滤无用噪音。
 - [ ] **分配今日时间（戴上 CEO 资源分配眼镜）**：
   - 根据当前的漏斗阶段，我今天要把 **Deep Work** 倾斜给哪个角色？

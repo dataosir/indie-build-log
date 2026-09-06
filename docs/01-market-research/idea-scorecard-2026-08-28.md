@@ -62,7 +62,7 @@
 **Next actions:**
 
 1. 完成 [`niche-graalvm-native-image-teardown.md`](niche-graalvm-native-image-teardown.md)  
-2. 复制 [`../02-product-mvp/offer-one-pager-template.md`](../02-product-mvp/offer-one-pager-template.md) → `offer-graalvm-native-v1.md`  
+2. 复制 [`../02-product-mvp/offer-one-pager-template.md`](../02-product-mvp/offer-one-pager-template.md) → `offer-graalvm-native-v1.md` — ✅ v1 草稿见 [`offer-graalvm-native-v1.md`](../02-product-mvp/offer-graalvm-native-v1.md)  
 3. 排 5 次访谈（Serverless Java / Spring Native 用户）  
 4. CTO：48h spike — 见 [`../02-product-mvp/tech-spike-template.md`](../02-product-mvp/tech-spike-template.md)  
 5. **现金轨（并行）：** [`../02-product-mvp/services-offer-graalvm.md`](../02-product-mvp/services-offer-graalvm.md) — Runway 紧或冲 100 万现金时优先 SKU A ($2.5k)

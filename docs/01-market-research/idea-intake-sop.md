@@ -196,7 +196,28 @@
 
 ---
 
-## 8. COO 收尾检查清单
+## 8. Validation 冻结期（M1 前强制执行）
+
+> **目的：** 防止「结构化思考新点子」替代 uncomfortable outreach。  
+> **生效：** 自 2026-09-06 起，直至 **M1（首笔 ≥$1 USD）** 收到。
+
+| 规则 | 说明 |
+|------|------|
+| **新点子默认路径** | 只写入 [`initial-brainstorming.md`](initial-brainstorming.md) 沙盒，**≤ 30 分钟**，不跑完整 §2 四角色评审 |
+| **完整评审触发** | 仅当 CEO 书面批准「Pivot」或 Primary bet 被 Kill |
+| **每周时间上限** | 新点子调研 + 沙盒落盘合计 **≤ 2h** |
+| **优先级** | Primary bet Validation KPI（访谈、外联、Offer）**永远优先** |
+| **状态查看** | [`../04-indie-log/CURRENT-STATUS.md`](../04-indie-log/CURRENT-STATUS.md) |
+
+**秘书收到新点子时：**
+
+1. 若 M1 未达成 → 沙盒速记 + 拓展树 bullet（≤30min）+ 提醒「冻结期中，完整评审需 CEO 批准」  
+2. 若用户坚持完整评审 → 先问：「本周访谈 / 外联 KPI 是否已达标？」  
+3. 完整评审产出仍走 §5–§8，但不得挤占当周 ONE commercial bet 时间
+
+---
+
+## 9. COO 收尾检查清单
 
 每次点子评审结束后，秘书自检：
 
@@ -211,7 +232,7 @@
 
 ---
 
-## 9. 文档 SSOT（不重复维护）
+## 10. 文档 SSOT（不重复维护）
 
 | 功能 | 唯一权威（SSOT） | 其他文件只做什么 |
 |------|------------------|------------------|
@@ -221,12 +242,14 @@
 | 利基「去哪找」 | [`01-niche-discovery-methodology.md`](01-niche-discovery-methodology.md) | playbook 只链背景 |
 | 7 天买家验证 | [`icp-discovery-playbook.md`](icp-discovery-playbook.md) | 不另写第二份日程表 |
 | 沙盒点子记录 | [`initial-brainstorming.md`](initial-brainstorming.md) | 评审正文不替代落盘 |
+| 执行状态 SSOT | [`04-indie-log/CURRENT-STATUS.md`](../04-indie-log/CURRENT-STATUS.md) | INDEX 顶部摘要 + 链到本页 |
+| 外联 / 访谈 CRM | [`04-indie-log/outreach-log.md`](../04-indie-log/outreach-log.md) | scorecard 只链汇总，不复制表格 |
 
 **铁律：** 功能相同的文档只维护一份；需要别处出现时，**链接**而非复制。
 
 ---
 
-## 10. Git 落盘（Agent 自动 commit）
+## 11. Git 落盘（Agent 自动 commit）
 
 | 动作 | 谁做 | 说明 |
 |------|------|------|

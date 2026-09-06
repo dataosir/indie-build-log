@@ -34,6 +34,7 @@ This repository documents the transition from traditional employment to an indie
 ## Status
 
 **Kickoff:** 2026-08-28 — [`docs/04-indie-log/2026-08-28-kickoff.md`](docs/04-indie-log/2026-08-28-kickoff.md)  
+**Live status:** [`docs/04-indie-log/CURRENT-STATUS.md`](docs/04-indie-log/CURRENT-STATUS.md) — Day 10 / W2, Validation stage  
 **Strategy pack:** 2026-08-28 — funnel, monetization, distribution, 90-day roadmap published.
 
 ---

@@ -58,9 +58,11 @@
 
 - [x] [`../../01-market-research/idea-scorecard-2026-08-28.md`](../../01-market-research/idea-scorecard-2026-08-28.md)
 - [x] [`../../01-market-research/niche-graalvm-native-image-teardown.md`](../../01-market-research/niche-graalvm-native-image-teardown.md) (draft)
-- [ ] `offer-graalvm-native-v1.md` (from template)
+- [ ] `offer-graalvm-native-v1.md` (from template) — 见 [`../../02-product-mvp/offer-graalvm-native-v1.md`](../../02-product-mvp/offer-graalvm-native-v1.md) v1 草稿
 - [ ] 3 interviews on calendar
 
 ---
 
 *Fill **Actual** every Sunday. Numbers over narratives.*
+
+> **W1 Actual 迟填：** 见 [`2026-09-06-week2-scorecard.md`](2026-09-06-week2-scorecard.md) §W1 回顾。
