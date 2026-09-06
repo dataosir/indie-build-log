@@ -8,7 +8,8 @@
 
 ## 今日基础信息
 - **日期**：2026-08-28 (或手动修改)
-- **文档目录**：[`docs/INDEX.md`](docs/INDEX.md)（新增/改动任何 md 后同步更新）
+- **文档目录（SSOT）**：[`docs/INDEX.md`](docs/INDEX.md) — 全库唯一清单；新增/改动任何 md 后同步更新；不在别处重复维护目录表
+- **Git**：Agent 每轮改动自动 **commit**；**push 由你决定**（说 `push` 再推）
 - **新点子入口**：[`docs/01-market-research/idea-intake-sop.md`](docs/01-market-research/idea-intake-sop.md)
 - **当前核心 Niche**：________________________
 - **当前所处商业漏斗阶段 (Funnel Stage)**：

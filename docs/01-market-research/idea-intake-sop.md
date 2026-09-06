@@ -206,7 +206,37 @@
 - [ ] 若新建文件 → INDEX 对应分区已加行
 - [ ] 若 Kill Primary 级方向 → CEO 决策日志已记
 - [ ] 用户回复含 §5 完整结构
+- [ ] **未**在其他文件新建与 INDEX 等价的文档目录表（SSOT 仅 INDEX）
+- [ ] 本轮改动已 **git commit**（由 Agent 自动完成；**push 由用户决定**）
 
 ---
 
-*抛点子 → 四角色吵完 → 落盘 → 更新目录。不要只在聊天里想清楚。*
+## 9. 文档 SSOT（不重复维护）
+
+| 功能 | 唯一权威（SSOT） | 其他文件只做什么 |
+|------|------------------|------------------|
+| 全库文档清单 | [`docs/INDEX.md`](../INDEX.md) | README / 子目录 README 只写分区用途 + 链到 INDEX |
+| 新点子评审流程 | 本文件 `idea-intake-sop.md` | 角色文档只链入，不复制检查表 |
+| 硬过滤 + 软打分 | [`business-framework.md`](business-framework.md) | scorecard / 评审输出引用，不重写规则 |
+| 利基「去哪找」 | [`01-niche-discovery-methodology.md`](01-niche-discovery-methodology.md) | playbook 只链背景 |
+| 7 天买家验证 | [`icp-discovery-playbook.md`](icp-discovery-playbook.md) | 不另写第二份日程表 |
+| 沙盒点子记录 | [`initial-brainstorming.md`](initial-brainstorming.md) | 评审正文不替代落盘 |
+
+**铁律：** 功能相同的文档只维护一份；需要别处出现时，**链接**而非复制。
+
+---
+
+## 10. Git 落盘（Agent 自动 commit）
+
+| 动作 | 谁做 | 说明 |
+|------|------|------|
+| **commit** | Agent（每轮改动结束自动） | 同一轮内的文档 / 规则 / 点子落盘一并提交；不拆空 commit |
+| **push** | 用户 | 用户说 `push` 才推远程；Agent 不主动 push |
+
+**Commit 消息：** 1–2 句，写「为什么」；遵循仓库既有风格。
+
+**同一轮必含：** 业务改动 + `docs/INDEX.md`（若有文件增删移）+ 相关入口链接；禁止只改内容不 commit。
+
+---
+
+*抛点子 → 四角色吵完 → 落盘 → 更新目录 → commit。不要只在聊天里想清楚。*

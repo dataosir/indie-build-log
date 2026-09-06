@@ -25,34 +25,11 @@ This repository documents the transition from traditional employment to an indie
 | [`docs/03-growth-and-automation/`](docs/03-growth-and-automation/) | Distribution, AI ops stack & minimal deployment |
 | [`docs/04-indie-log/`](docs/04-indie-log/) | Transition journal, weekly reports & retrospectives |
 
-## Strategy pack & Operations
-
-| Doc / Folder | Focus |
-|-----|--------|
-| [`docs/INDEX.md`](docs/INDEX.md) | **Document catalog** — find any file; sync on every doc change |
-| [`docs/01-market-research/idea-intake-sop.md`](docs/01-market-research/idea-intake-sop.md) | **Idea intake** — 4-role review when you pitch a new idea |
-| [`daily_sop.md`](daily_sop.md) | **Daily Standard Operating Procedure** (Founder's daily routine) |
-| [`docs/00-constraints/runway-and-living-wage.md`](docs/00-constraints/runway-and-living-wage.md) | **Runway & living MRR** + global payments checklist |
-| [`roles/CEO-chief-executive-officer.md`](roles/CEO-chief-executive-officer.md) | **CEO Workspace**: Strategy, Runway, Time Allocation & Decision Log |
-| [`docs/01-market-research/business-framework.md`](docs/01-market-research/business-framework.md) | Funnel: Traffic → Validation → Pricing → Monetization → Automation + micro-niche scorecard |
-| [`docs/01-market-research/idea-scorecard-2026-08-28.md`](docs/01-market-research/idea-scorecard-2026-08-28.md) | Seed ideas scored; Top 1 niche selected |
-| [`docs/01-market-research/01-niche-discovery-methodology.md`](docs/01-market-research/01-niche-discovery-methodology.md) | **Niche Discovery**: Where and how to find high-value niches |
-| [`docs/01-market-research/icp-discovery-playbook.md`](docs/01-market-research/icp-discovery-playbook.md) | **ICP Discovery Playbook**: 7-day buyer-first checklist (interviews, gates) |
-| [`docs/02-product-mvp/monetization-strategy.md`](docs/02-product-mvp/monetization-strategy.md) | Stripe / buyout vs sub / API metering + pre-sale before code |
-| [`docs/02-product-mvp/services-offer-graalvm.md`](docs/02-product-mvp/services-offer-graalvm.md) | **Cash track**: GraalVM consulting SKUs ($2.5k+), outreach & delivery SOP |
-| [`docs/02-product-mvp/services-offer-trading-discipline.md`](docs/02-product-mvp/services-offer-trading-discipline.md) | **Interest track**: Trading discipline cohort (¥3.9k, non-advisory) |
-| [`docs/03-growth-and-automation/tea-promotion-one-pager.md`](docs/03-growth-and-automation/tea-promotion-one-pager.md) | **TEA** external one-pager (access engine, not stock picks) |
-| [`docs/02-product-mvp/offer-one-pager-template.md`](docs/02-product-mvp/offer-one-pager-template.md) | One-page offer template (who / pain / price) |
-| [`docs/03-growth-and-automation/distribution-channels.md`](docs/03-growth-and-automation/distribution-channels.md) | $0-ad cold start: BIP, Product Hunt, Reddit |
-| [`docs/03-growth-and-automation/ai-operating-stack.md`](docs/03-growth-and-automation/ai-operating-stack.md) | AI tool stack, COGS limits & human/AI split |
-| [`docs/04-indie-log/roadmap-and-milestones.md`](docs/04-indie-log/roadmap-and-milestones.md) | 90-day milestones to first USD revenue |
-| [`docs/04-indie-log/daily-logs/`](docs/04-indie-log/daily-logs/) | Daily SOP instances & weekly scorecards |
-
 ## Getting started
 
-1. Read the **Strategy pack & Operations** above (start with `daily_sop.md` and the `roles/` folder to understand your hats).
-2. Clone `docs/01-market-research/niche-research-template.md` to start a new market niche investigation.
-3. Browse [`docs/04-indie-log/`](docs/04-indie-log/) for personal updates and weekly scorecards.
+1. Open **[`docs/INDEX.md`](docs/INDEX.md)** — master catalog (SSOT); use **快速入口** for daily SOP, idea intake, scorecard, roles.
+2. Start execution with [`daily_sop.md`](daily_sop.md) and the [`roles/`](roles/) folder.
+3. Clone [`docs/01-market-research/niche-research-template.md`](docs/01-market-research/niche-research-template.md) to open a new niche investigation.
 
 ## Status
 

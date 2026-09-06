@@ -1,6 +1,8 @@
 # 文档总目录 (Master Index)
 
 > **维护规则（COO 铁律）：** 新增、移动、重命名或删除任何 `.md` 文件时，**同一轮改动内**必须同步更新本目录。  
+> **SSOT（单一来源）：** 本页是**全库文档清单的唯一权威**；`README.md`、子目录 README 等**不得**再维护等价的逐文件目录表——只保留仓库简介 / 分区用途，并链到本页。  
+> **Git：** Agent 每轮改动结束自动 **commit**；**push 由用户决定**。  
 > **最后全量校对：** 2026-09-06
 
 ---
@@ -22,8 +24,9 @@
 
 | 路径 | 类型 | 说明 | 更新 |
 |------|------|------|------|
-| [`README.md`](../README.md) | 对外 | 仓库简介、布局、Strategy pack 速览 | 2026-08-28 |
-| [`daily_sop.md`](../daily_sop.md) | SOP | 创始人每日标准作业（帽子切换循环） | 2026-08-28 |
+| [`README.md`](../README.md) | 对外 | 仓库简介、分区布局；**文档清单见 INDEX** | 2026-09-06 |
+| [`daily_sop.md`](../daily_sop.md) | SOP | 创始人每日标准作业（帽子切换循环） | 2026-09-06 |
+| [`.cursor/rules/git-and-docs.mdc`](../.cursor/rules/git-and-docs.mdc) | 规则 | Agent：自动 commit、SSOT、不主动 push | 2026-09-06 |
 
 ---
 
@@ -34,7 +37,7 @@
 | [`CEO-chief-executive-officer.md`](../roles/CEO-chief-executive-officer.md) | CEO | 战略、Runway、时间分配、决策日志 | 2026-08-28 |
 | [`CMO-chief-marketing-officer.md`](../roles/CMO-chief-marketing-officer.md) | CMO | 市场调研、验证、分发、文案 | 2026-08-28 |
 | [`CTO-chief-technology-officer.md`](../roles/CTO-chief-technology-officer.md) | CTO | MVP、技术栈、Tech Spike、AI 杠杆 | 2026-08-28 |
-| [`COO-chief-operating-officer.md`](../roles/COO-chief-operating-officer.md) | COO | 财务、自动化、知识库、INDEX 维护 | 2026-08-28 |
+| [`COO-chief-operating-officer.md`](../roles/COO-chief-operating-officer.md) | COO | 财务、自动化、知识库、INDEX + SSOT + Git 落盘 | 2026-09-06 |
 
 ---
 
@@ -50,7 +53,7 @@
 
 | 路径 | 类型 | 说明 | 状态 | 更新 |
 |------|------|------|------|------|
-| [`idea-intake-sop.md`](01-market-research/idea-intake-sop.md) | **SOP** | **新点子四角色评审流程与落盘规则** | 活跃 | 2026-09-06 |
+| [`idea-intake-sop.md`](01-market-research/idea-intake-sop.md) | **SOP** | **新点子四角色评审 + SSOT + Git 落盘** | 活跃 | 2026-09-06 |
 | [`initial-brainstorming.md`](01-market-research/initial-brainstorming.md) | 沙盒 | Idea 1–9 原始脑暴 + 拓展树 | 活跃 | 2026-09-06 |
 | [`idea-scorecard-2026-08-28.md`](01-market-research/idea-scorecard-2026-08-28.md) | 评分 | 种子点子硬过滤 + 软打分；Top 1 = GraalVM | 活跃 | 2026-08-28 |
 | [`business-framework.md`](01-market-research/business-framework.md) | 框架 | 商业漏斗、Micro-Niche 打分表、Kill 规则 | 活跃 | 2026-08-28 |
@@ -94,7 +97,7 @@
 
 | 路径 | 类型 | 说明 | 更新 |
 |------|------|------|------|
-| [`README.md`](03-growth-and-automation/README.md) | 索引 | 本子目录说明 | 2026-08-28 |
+| [`README.md`](03-growth-and-automation/README.md) | 说明 | 本子目录用途（清单见 INDEX） | 2026-09-06 |
 | [`distribution-channels.md`](03-growth-and-automation/distribution-channels.md) | 策略 | $0 广告冷启动：BIP、Reddit、PH | 2026-08-28 |
 | [`ai-operating-stack.md`](03-growth-and-automation/ai-operating-stack.md) | 策略 | AI 工具栈、COGS 红线 | 2026-08-28 |
 | [`deployment-and-ops-minimum.md`](03-growth-and-automation/deployment-and-ops-minimum.md) | 运维 | Hetzner + Stripe webhook 最小部署 | 2026-08-28 |
@@ -108,7 +111,7 @@
 |------|------|------|------|
 | [`roadmap-and-milestones.md`](04-indie-log/roadmap-and-milestones.md) | 路线图 | 90 天里程碑 → 首笔 USD | 2026-08-28 |
 | [`2026-08-28-kickoff.md`](04-indie-log/2026-08-28-kickoff.md) | 日志 | 项目启动宣言 | 2026-08-28 |
-| [`daily-logs/README.md`](04-indie-log/daily-logs/README.md) | 索引 | 每日日志 / 周报存档说明 | 2026-08-28 |
+| [`daily-logs/README.md`](04-indie-log/daily-logs/README.md) | 说明 | 每日日志用法（清单见 INDEX） | 2026-09-06 |
 | [`daily-logs/2026-08-28-week1-scorecard.md`](04-indie-log/daily-logs/2026-08-28-week1-scorecard.md) | 周报 | Week 1 scorecard | 2026-08-28 |
 
 ---

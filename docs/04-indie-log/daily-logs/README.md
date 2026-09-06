@@ -8,15 +8,7 @@
 
 **Language:** 执行日志以中文为主；对外 BIP 摘录可英文发布。
 
-**全库目录：** [`../../INDEX.md`](../../INDEX.md)
-
----
-
-## Index
-
-| 文件 | 类型 |
-|------|------|
-| [`2026-08-28-week1-scorecard.md`](2026-08-28-week1-scorecard.md) | Week 1 scorecard（Kickoff 周） |
+**日志索引（SSOT）：** [`../../INDEX.md`](../../INDEX.md) → `docs/04-indie-log/` 分区。
 
 ---
 

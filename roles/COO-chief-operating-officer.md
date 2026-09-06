@@ -9,7 +9,8 @@
 - **财务与法务合规**：监控资金 Runway，管理 Stripe 账单、税收（如 Merchant of Record 接入、全球 VAT 申报）、域名管理。
 - **流程自动化 (Workflow Automation)**：用低代码/无代码工具（n8n、Zapier、GitHub Actions）将重复任务自动化，打造“零人运维”的后台。
 - **工作区整理与知识库管理**：确保此 GitHub 仓库结构清晰，SOP 及时更新，日常踩坑能快速落盘沉淀，防止知识遗忘。
-- **文档总目录维护**：任何新增、移动、重命名或删除 `.md` 文件时，**同一轮改动内**更新 [`docs/INDEX.md`](../docs/INDEX.md)；新点子评审后同步点子索引行。
+- **文档总目录维护（SSOT）**：[`docs/INDEX.md`](../docs/INDEX.md) 是全库**唯一**文档清单；新增/移动/重命名/删除任何 `.md` 时**同一轮**更新 INDEX；**禁止**在 README、子目录 README 等处再维护等价的逐文件目录表（只链到 INDEX）。
+- **Git 落盘**：Agent 每轮改动结束**自动 commit**；**push 由 founder 决定**（用户说 push 才推）。详见 [`idea-intake-sop.md` §10](../docs/01-market-research/idea-intake-sop.md#10-git-落盘agent-自动-commit)。
 - **客户支持与 SLA 维护**：在初期承接用户邮件、反馈，建立常见问题解答 (FAQ) 知识库，编写回复模板。
 
 ---

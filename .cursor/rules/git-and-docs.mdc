@@ -1,0 +1,19 @@
+---
+description: Git commit workflow and document SSOT for this repo
+alwaysApply: true
+---
+
+# Git & 文档维护
+
+## 自动 commit
+
+- 每轮任务改动结束后，**自动 git commit**（无需用户再说 commit）
+- **不要主动 push**；仅当用户明确说 push 时才推远程
+- Commit 消息 1–2 句，写 why；遵循仓库既有风格
+- 同一轮改动一并提交：业务文件 + INDEX（若有增删移）+ 入口链接
+
+## 文档 SSOT
+
+- 全库文档清单唯一权威：[`docs/INDEX.md`](docs/INDEX.md)
+- 功能相同的文档只维护一份；别处只链接，不复制目录表或整段规则
+- 新增/移动/重命名/删除 `.md` → 同一轮更新 INDEX
