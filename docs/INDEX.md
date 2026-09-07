@@ -71,7 +71,7 @@
 | 路径 | 类型 | 说明 | 状态 | 更新 |
 |------|------|------|------|------|
 | [`idea-intake-sop.md`](01-market-research/idea-intake-sop.md) | **SOP** | **新点子四角色评审 + Validation 冻结期 + SSOT + Git** | 活跃 | 2026-09-06 |
-| [`initial-brainstorming.md`](01-market-research/initial-brainstorming.md) | 沙盒 | Idea 1–9 原始脑暴 + 拓展树 | 活跃 | 2026-09-06 |
+| [`initial-brainstorming.md`](01-market-research/initial-brainstorming.md) | 沙盒 | Idea 1–10 原始脑暴 + 拓展树 | 活跃 | 2026-09-07 |
 | [`idea-scorecard-2026-08-28.md`](01-market-research/idea-scorecard-2026-08-28.md) | 评分 | 种子点子硬过滤 + 软打分；Top 1 = GraalVM | 活跃 | 2026-08-28 |
 | [`business-framework.md`](01-market-research/business-framework.md) | 框架 | 商业漏斗、Micro-Niche 打分表、Kill 规则 | 活跃 | 2026-08-28 |
 | [`01-niche-discovery-methodology.md`](01-market-research/01-niche-discovery-methodology.md) | 方法 | 利基发现：去哪找、怎么筛 | 活跃 | 2026-08-28 |
@@ -92,6 +92,7 @@
 | 7 | 炒股兴趣周边 | 🟡 沙盒 | 兴趣轨 |
 | 8 | 微信/QQ 群日报 | 🟡 沙盒 | Idea 4-B3 变体 |
 | 9 | 离谱野史 × 语音故事 | 🟡 沙盒 | 2026-09-06；场景已拆 |
+| 10 | 线上外卖超时 | 🟡 沙盒 | 2026-09-07；C 端预 Kill；商家申诉台账可观察 |
 
 ---
 
